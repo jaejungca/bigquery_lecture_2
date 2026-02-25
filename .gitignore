@@ -3,5 +3,5 @@
 .Rproj.user/
 *.sql
 _publish.yml
-.qmd
+*.qmd
 images/
