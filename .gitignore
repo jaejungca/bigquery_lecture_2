@@ -1,0 +1,5 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.sql
+_publish.yml
